@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://supriyo01:supriyo01@cluster0-yuoqu.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "my_secter_token",
+  "githubClientId": "da9f5b0e66eb4279a5ee",
+  "githubSecret": "    bb17db8e365213fc5da011c7524e9afc15f28211"
+}
